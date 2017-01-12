@@ -2,5 +2,5 @@
 
 ## User Information
 
-Name: Alicia Scruggs
-Email: ascruggs@usc.edu
+Name:
+Email:
